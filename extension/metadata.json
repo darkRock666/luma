@@ -1,0 +1,8 @@
+{
+  "uuid": "luma@local.desktop",
+  "name": "Luma · Video Wallpaper",
+  "description": "Video local como fondo, con pausa por pantalla completa y batería. Requiere la aplicación Luma.",
+  "shell-version": ["50"],
+  "version": 5,
+  "session-modes": ["user"]
+}
